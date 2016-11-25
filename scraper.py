@@ -6,7 +6,7 @@ import datetime
 
 # Blank Python
 
-ASINS = ["B00U78GFWW"]
+ASINS = ["B00U78GFWW", "B01DPSJMIO"]
 summary = ""
 
 for asin in ASINS:
